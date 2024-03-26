@@ -1,7 +1,6 @@
-# Hello 👋!
+# Hello! 👋
 
-I'm Arjun Sharma, a Grade 11 high school student from Oshawa, Ontario. I enjoy competitive programming, participating in 
-hackathons, and pursuing various game and full-stack web development projects.
+I'm Arjun Sharma, a Grade 11 high school student from Oshawa, Ontario. I enjoy competitive programming, participating in hackathons, and pursuing various full-stack web development and game development projects.
 
 ###
 <h2 align="left"> Technologies</h2>
