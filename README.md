@@ -1,25 +1,19 @@
-# Hi there, I'm Arjun Sharma 👋
+# Hello 👋!
 
-I am a Grade 11 high school student from Oshawa, Ontario. I enjoy competitive programming, participating in hackathons, and pursuing various game and full-stack web development projects.
+I'm Arjun Sharma, a Grade 11 high school student from Oshawa, Ontario. I enjoy competitive programming, participating in 
+hackathons, and pursuing various game and full-stack web development projects.
 
-## Technologies
+###
+<h2 align="left"> Technologies</h2>
 
-<div>
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
-</div>
+<p>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&theme=github&width=265&hideTitle=true&line1=vue.js%2Cvue.js%2C42b883%3Bmongodb%2Cmongodb%2C589636%3B&line2=express%2Cexpress%2C7a868c%3Bnode.js%2Cnode.js%2C215732%3B&line3=docker%2Cdocker%2C0db7ed%3Beslint%2Ceslint%2CCCCCFA%3B" alt="My Tech Stack" style="width: 42%; display: inline-block; vertical-align: top; margin-right: 2%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjundevensharma&layout=compact" alt="Top Langs" style="width: 49%; display: inline-block; vertical-align: top;" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjundevensharma&layout=compact)
-
-## Contact
+---
 
 [![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjundevensharma@gmail.com)
 [![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/d/1HkHcVNoppIPsM_7KB-acQhdEOdqiNFH1/p/1yq3hCx5JnzQ-TkOIHzzpZJsK7827hsDp/edit)
 [![Resume](https://img.shields.io/badge/Resume-007BFF?style=for-the-badge&logo=microsoftword&logoColor=white)](https://sites.google.com/d/1HkHcVNoppIPsM_7KB-acQhdEOdqiNFH1/p/1yq3hCx5JnzQ-TkOIHzzpZJsK7827hsDp/edit)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/arsharma335)
