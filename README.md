@@ -13,6 +13,6 @@ I'm Arjun Sharma, a Grade 11 high school student from Ontario. I enjoy competiti
 ---
 
 [![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjundevensharma@gmail.com)
-[![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](arjundevensharma.github.io)
-[![Resume](https://img.shields.io/badge/Resume-007BFF?style=for-the-badge&logo=microsoftword&logoColor=white)](arjundevensharma.github.io/assets/Arjun_Sharma_Resume.pdf)
+[![Website](https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arjundevensharma.github.io)
+[![Resume](https://img.shields.io/badge/Resume-007BFF?style=for-the-badge&logo=microsoftword&logoColor=white)](https://arjundevensharma.github.io/assets/Arjun_Sharma_Resume.pdf)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/arsharma335)
