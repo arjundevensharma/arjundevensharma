@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Arjun Sharma, a Grade 12 high school student from Ontario. I enjoy competitive programming, participating in hackathons, and pursuing various full-stack web development and game development projects. *This is account is no longer active, featuring several of my older personal projects.*
+I'm Arjun Sharma, a Grade 12 high school student from Ontario. I enjoy competitive programming, participating in hackathons, and pursuing various full-stack web development and game development projects. *This account is no longer active, featuring several of my older personal projects.*
 
 ###
 <h2 align="left"> Technologies</h2>
