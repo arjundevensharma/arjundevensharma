@@ -1,5 +1,3 @@
-# Hello! 👋
-
 I'm Arjun Sharma, a high school student from Ontario.
 
 ###
