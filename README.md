@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Arjun Sharma, a Grade 12 high school student from Ontario.
+I'm Arjun Sharma, a high school student from Ontario.
 
 ###
 <h2 align="left"> Technologies</h2>
